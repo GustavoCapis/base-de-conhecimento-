@@ -1,0 +1,70 @@
+[
+  {
+    "nome": "JavaScript",
+    "descricao": "O JavaScript é uma linguagem da web.",
+    "ano": 1995,
+    "link": "https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"
+  },
+
+  {
+    "nome": "Python",
+    "descricao": "O Python é uma linguagem da ciência de dados e IA.",
+    "ano": 1991,
+    "link": "https://docs.python.org/3/"
+  },
+  {
+    "nome": "Java",
+    "descricao": "Linguagem orientada a objetos amplamente usada em aplicações corporativas.",
+    "ano": 1995,
+    "link": "https://www.oracle.com/java/"
+  },
+
+  {
+    "nome": "C",
+    "descricao": "Linguagem procedural de baixo nível frequentemente usada em sistemas e kernels.",
+    "ano": 1972,
+    "link": "https://en.cppreference.com/w/c"
+  },
+
+  {
+    "nome": "C++",
+    "descricao": "Extensão do C com programação orientada a objetos, usada em sistemas, aplicações e jogos.",
+    "ano": 1985,
+    "link": "https://isocpp.org/"
+  },
+
+  {
+    "nome": "Ruby",
+    "descricao": "Linguagem dinâmica focada em produtividade e simplicidade.",
+    "ano": 1995,
+    "link": "https://www.ruby-lang.org/pt/"
+  },
+
+  {
+    "nome": "Go",
+    "descricao": "Linguagem compilada do Google, com concorrência simples e bom desempenho.",
+    "ano": 2009,
+    "link": "https://go.dev/"
+  },
+
+  {
+    "nome": "Rust",
+    "descricao": "Linguagem moderna com foco em segurança de memória e desempenho.",
+    "ano": 2010,
+    "link": "https://www.rust-lang.org/pt-BR/"
+  },
+
+  {
+    "nome": "TypeScript",
+    "descricao": "Superset do JavaScript que adiciona tipagem estática opcional para maior robustez.",
+    "ano": 2012,
+    "link": "https://www.typescriptlang.org/"
+  },
+
+  {
+    "nome": "Kotlin",
+    "descricao": "Linguagem interoperável com Java, oficial para desenvolvimento Android.",
+    "ano": 2011,
+    "link": "https://kotlinlang.org/"
+  }
+]
